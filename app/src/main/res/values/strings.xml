@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VK-SDK-test</string>
+    <string name="login_hello">Вас приветствует приложение \"Друзья Вк\" \nПожалуйста, нажмите кнопку Войти, чтобы увидеть ваших друзей</string>
+    <string name="login_enter">Войти</string>
+    <string name="friends_search_hint">Enter your query here</string>
+    <string name="friends_no_items">У вас нет друзей</string>
+    <string name="login_error_credentials">Ошибка при попытке логина в ВК</string>
+    <string name="no_city">Город не указан</string>
+    <string name="friends_error_loading">Ошибка при загрузке списка друзей</string>
+    <string name="friend_no_city">Города нет</string>
+
+    <integer name="com_vk_sdk_AppId">6981439</integer>
+</resources>
